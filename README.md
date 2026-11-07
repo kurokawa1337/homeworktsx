@@ -1,8 +1,4 @@
-# React Homework (Module 4)
-
-Repository: https://github.com/kurokawa1337/homeworktsx
-
-## Components
+## компоненти
 - `src/components/CityFunctional.tsx`
 - `src/components/CityClass.tsx`
 - `src/components/BookFunctional.tsx`
